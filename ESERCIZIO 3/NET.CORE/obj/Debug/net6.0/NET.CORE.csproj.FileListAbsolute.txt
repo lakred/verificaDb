@@ -1,0 +1,142 @@
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\NET.CORE.exe
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\NET.CORE.deps.json
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\NET.CORE.runtimeconfig.json
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\NET.CORE.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\NET.CORE.pdb
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.CopyComplete
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\refint\NET.CORE.dll
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.pdb
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\NET.CORE.genruntimeconfig.cache
+C:\Users\Mohamed\source\repos\NET.CORE\NET.CORE\obj\Debug\net6.0\ref\NET.CORE.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\NET.CORE.exe
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\NET.CORE.deps.json
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\NET.CORE.runtimeconfig.json
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\NET.CORE.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\NET.CORE.pdb
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.AssemblyInfo.cs
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.csproj.CopyComplete
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\refint\NET.CORE.dll
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.pdb
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\NET.CORE.genruntimeconfig.cache
+C:\Users\Mohamed\Documents\GitHub\verifica\ESERCIZIO 3\NET.CORE\obj\Debug\net6.0\ref\NET.CORE.dll
